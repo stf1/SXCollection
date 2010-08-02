@@ -1,0 +1,8 @@
+[multiplayer_side]
+  id="SXC_dwarves"
+  name={MENU_IMG_TXT "units/dwarves/fighter.png~RC(magenta>red)" _"Dwarves"}
+  type="SXC Dwarvish Fighter"
+  random_leader="SXC Dwarvish Fighter,SXC Dwarvish Guardsman,SXC Dwarvish Masked Guardsman,SXC Dwarvish Masked Thunderer,SXC Dwarvish Scout,Dwarvish Thunderer,SXC Dwarvish Ulfserker,SXC Dwarvish Warrior,SXC Dwarvish Witness,Gryphon Rider,SXC Gyrocopter,SXC Rifleman,SXC Rune Adept,SXC Striding Machine,SXC Steam Ulfserker"
+  leader="SXC Dwarvish Fighter,SXC Dwarvish Guardsman,SXC Dwarvish Masked Guardsman,SXC Dwarvish Masked Thunderer,SXC Dwarvish Scout,Dwarvish Thunderer,SXC Dwarvish Ulfserker,SXC Dwarvish Warrior,SXC Dwarvish Witness,Gryphon Rider,SXC Gyrocopter,SXC Rifleman,SXC Rune Adept,SXC Striding Machine,SXC Steam Ulfserker"
+  recruit=""
+[/multiplayer_side]

@@ -1,0 +1,45 @@
+# Elves
+# 1 Elvish Archer,Elvish Fighter,Elvish Scout,Elvish Shaman,Wose
+# 1 a,f,s,h,f
+# 2 Elvish Captain,Elvish Druid,Elvish Hero,Elvish Marksman,Elvish Ranger,Elvish Rider,Elvish Sorceress,Elder Wose
+# 2 f,h,f,a,m,s,m,f
+# 3 Elvish Avenger,Elvish Champion,Elvish Enchantress,Elvish Marshal,Elvish Outrider,Elvish Sharpshooter,Elvish Shyde,Ancient Wose
+# 3 m,f,m,f,s,a,h,f
+# Orcs, Goblins, Trolls & Ogres
+# 1 Orcish Archer,Orcish Assassin,Orcish Grunt,Orcish Leader,Goblin Impaler,Goblin Rouser,Wolf Rider,Troll Whelp,Young Ogre
+# 1 a,m,f,m,f,f,s,f,f
+# 2 Orcish Crossbowman,Orcish Ruler,Orcish Slayer,Orcish Warrior,Goblin Knight,Goblin Pillager,Troll,Troll Rocklobber,Ogre
+# 2 a,m,m,f,s,s,f,m,f
+# 3 Orcish Slurbow,Orcish Sovereign,Orcish Warlord,Direwolf Rider,Troll Warrior
+# 3 a,m,f,s,f
+# Drakes, Saurians & Nagas
+# 1 Drake Burner,Drake Clasher,Drake Fighter,Drake Glider,Saurian Augur,Saurian Skirmisher,Naga Fighter
+# 1 a,f,f,s,h,s,f
+# 2 Fire Drake,Drake Flare,Drake Gladiator,Sky Drake,Drake Slasher,Drake Warrior,Saurian Ambusher,Saurian Oracle,Saurian Soothsayer,Naga Warrior
+# 2 a,m,f,s,f,f,s,a,h,f
+# 3 Drake Blademaster,Drake Enforcer,Drake Flameheart,Hurricane Drake,Inferno Drake,Drake Warden,Saurian Flanker,Naga Myrmidon
+# 3 f,f,m,s,a,f,s,f
+# Dwarves
+# 1 Dwarvish Fighter,Dwarvish Guardsman,Dwarvish Thunderer,Dwarvish Ulfserker,Gryphon Rider
+# 1 f,f,m.f,s
+# 2 Dwarvish Berserker,Dwarvish Stalwart,Dwarvish Steelclad,Dwarvish Thunderguard,Gryphon Master
+# 2 f,f,f.m,s
+# 3 Dwarvish Dragonguard,Dwarvish Lord,Dwarvish Runemaster,Dwarvish Sentinel
+# 3 a,f,f,f
+# Humans (Loyals & Outlaws)
+# 1 Horseman,Bowman,Cavalryman,Fencer,Heavy Infantryman,Sergeant,Spearman,Mage,Footpad,Thief,Thug,Poacher
+# 1 f,a,s,f,f,f,f,m,s,f,f,a
+# 2 Knight,Lancer,Dragoon,Duelist,Javelineer,Lieutenant,Longbowman,Pikeman,Shock Trooper,Swordsman,Red Mage,White Mage,Outlaw,Bandit,Rogue,Trapper
+# 2 f,f,s,m,f,f,a,f,f,f,m,h,m,f,f,a
+# 3 Grand Knight,Paladin,Cavalier,General,Halberdier,Iron Mauler,Master at Arms,Master Bowman,Royal Guard,Arch Mage,Mage of Light,Silver Mage,Assassin,Fugitive,Highwayman,Huntsman,Ranger
+# 3 f,f,s,f,f,f,m,a,f,m,h,m,m,m,f,a,m
+# Undead & Monsters
+# 1 Blood Bat,Giant Mudcrawler,Giant Scorpion,Wolf,Ghoul,Soulless,Dark Adept,Skeleton,Skeleton Archer,Ghost
+# 1 s,a,f,s,f,f,a,f,a,s
+# 2 Dread Bat,Gryphon,Necrophage,Dark Sorcerer,Bone Shooter,Chocobone,Deathblade,Revenant,Shadow,Wraith
+# 2 s,s,f,m,a,s,f,f,s,s
+# 3 Giant Spider,Lich,Necromancer,Banebow,Death Knight,Draug,Nightgaunt,Spectre
+# 3 f,f,m,a,f,f,s,s
+# 4 Skeletal Dragon,Yeti,Ancient Lich
+# 4 f,f,m
+
