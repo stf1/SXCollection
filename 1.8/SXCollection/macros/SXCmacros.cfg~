@@ -3738,7 +3738,7 @@ Yellow potions: $yellow_potions_$side_number|| (max 1) "}
             message="<span color='#40C020' size='x-large' weight='bold'>Potions &amp; items</span>
 <span weight='bold'>Here you can buy various useful potions or items. To use potions,
 right-click on your unit and select potion from menu (inventory).</span>
-<span color='#E0E018'>Gold: $gold|</span><span color='#40FF40'>$potions_list|</span>
+<span color='#E0E018'>Gold: $gold|</span><span color='40FF40'>$potions_list|</span>
 <span color='#10C8F8' weight='bold'>Total number of potions: $potions_total_$side_number|| of max. 4</span>"
             image="icons/potions+items.png"
             [option]
