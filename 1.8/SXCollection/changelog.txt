@@ -1,3 +1,9 @@
+0.2.2  Due to changes in engine in 1.8.x are now native unit's abilities replaced only after reaching maximum level
+       Changed amount and prices of buyable movement based on speed of the unit
+       Fixed incorrect displaying of icons in terrain training shop section
+
+0.2.1  Fixed ability soulstealer
+
 0.2.0  Renamed back to SXCollection and fixed informations about version in the code
 
 SXCollective 0.0.0 - 0.19.0 maintained by pkz
