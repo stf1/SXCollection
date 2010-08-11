@@ -1,6 +1,11 @@
+0.2.3  Fixed dropping items on players death
+       Changed ability macro definition names for compatibility with default abilities and weapon specials macro names
+       Changed prices for terrain training to help units with very bad movement to have the additional upgrades bit less expensive
+
 0.2.2  Due to changes in engine in 1.8.x are now native unit's abilities replaced only after reaching maximum level
        Changed amount and prices of buyable movement based on speed of the unit
        Fixed incorrect displaying of icons in terrain training shop section
+       Fixed sound file name for flaming dart
 
 0.2.1  Fixed ability soulstealer
 
