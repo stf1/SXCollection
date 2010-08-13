@@ -1,3 +1,6 @@
+0.2.5  Automatic terrain defense adjusting for units with too low (less than 40%) or too high (greater than 80%) terrain defense
+       Fixed some items macros
+
 0.2.4  Fixed wrong informations about abilities in shop
        Armor is now recalculated to help units with bad default armor but also to lower armor on units with too high armor, which also enables better
        selection of needed armor for players. Total positive armor is now 240 after buying all possible upgrades.
