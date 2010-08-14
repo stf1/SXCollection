@@ -1,3 +1,8 @@
+0.2.7  Changed price for strikes
+
+0.2.6  Changed weapons and damage for enemy leaders in SXC_Advanced map
+       Changed recruit lists for enemies in SXC_Advanced map
+
 0.2.5  Automatic terrain defense adjusting for units with too low (less than 40%) or too high (greater than 80%) terrain defense
        Fixed some items macros
 
