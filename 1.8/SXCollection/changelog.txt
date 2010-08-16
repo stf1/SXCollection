@@ -1,3 +1,7 @@
+0.2.9  Fixed some bugs in macros
+       Mountains in snowy areas changed to snowy mountains
+       Changed speed of roaming bosses in SXC_Advanced map
+
 0.2.8  More changes in SXC_Advanced map
        Some macros marked as deprecated and replaced by more powerful macros
 
