@@ -1,3 +1,6 @@
+0.2.11 Added new macros for enemy
+       Changed SXC_Adventure map to reflect changes in macros
+
 0.2.10 Added SXC_ENEMY_LEADER_SPECIALS macro
        Disabled 125 gold bonus for enemy leaders on player's unit death
        Changed SXC_Adventure map
