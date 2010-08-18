@@ -1,3 +1,5 @@
+0.2.14 Fixed bug causing that unit was not checked at start of scenario
+
 0.2.13 Natural unit's attacks with damage type energy and force are now replaced with fire and impact
        Natural unit's abilities Concealment and Teleport are now removed because there is not use for them in SXCollection maps and removing them enables to see other abilities in the list
 
