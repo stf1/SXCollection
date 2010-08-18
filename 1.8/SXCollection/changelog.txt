@@ -1,3 +1,6 @@
+0.2.12 Changed desert area in SXC_Adventure map
+       Fixed fearless on units without availability=mustahave for maximum unit level
+
 0.2.11 Added new macros for enemy
        Changed SXC_Adventure map to reflect changes in macros
 
