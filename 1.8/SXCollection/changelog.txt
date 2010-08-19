@@ -1,3 +1,5 @@
+0.2.16 Changed roaming bosses and fixed specials on ai9
+
 0.2.15 Abilities Ambush, Nightstalk and Submerge are removed because AI is ignoring them.
        Added macro for changing weapon damage type on leaders
        Changed weapons and added weapon specials for bosses in SXC_Advenced map
