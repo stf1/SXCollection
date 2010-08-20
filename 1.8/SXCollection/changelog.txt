@@ -1,3 +1,8 @@
+0.2.18 More unit macros moved to deprecated, new macros are more universal
+       Macros in SXC_Advenced, SXC_Adventure and SXC_Chambers replaced by new macros
+       Changed shop images in SXC_Adventure and SXC_Chambers
+       Changed impassable mountains in snowy area into snowy impassable mountains in SXC_Chambers map
+
 0.2.17 Changed attacks of roaming bosses in SXC_Advanced map
 
 0.2.16 Changed roaming bosses and fixed specials on ai9 in SXC_Advanced map
