@@ -1,3 +1,8 @@
+0.2.20 Updated SXC_Adventure
+       Changed berserk from shop to 10 rounds
+
+0.2.19 Updated SXC_Adventure and SXC_BraveHeart maps
+
 0.2.18 More unit macros moved to deprecated, new macros are more universal
        Macros in SXC_Advenced, SXC_Adventure and SXC_Chambers replaced by new macros
        Changed shop images in SXC_Adventure and SXC_Chambers
