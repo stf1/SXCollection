@@ -1,3 +1,5 @@
+0.2.22 Fixed some unit macros
+
 0.2.21 Updated SXC_BraveHeart
 
 0.2.20 Updated SXC_Adventure
