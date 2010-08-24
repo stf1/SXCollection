@@ -1,3 +1,7 @@
+0.2.24 Fixed some items macros
+       Fixed image of last shop in SXC_Adventure
+       Updated SXC_BraveHeart
+
 0.2.23 Fixed some unit macros
        Updated SXC_BraveHeart
 
