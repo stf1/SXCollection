@@ -1,4 +1,8 @@
-0.2.24 Fixed some items macros
+0.2.25 Fixed most item macros
+       Updated weapon specials
+       Changed and added some unit macros
+
+0.2.24 Fixed some item macros
        Fixed image of last shop in SXC_Adventure
        Updated SXC_BraveHeart
 
