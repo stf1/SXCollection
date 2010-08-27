@@ -1,3 +1,6 @@
+0.2.27 Changed all remaining unit macros and updated affected maps (SXC_Advanced, SXC_Adventure, SXC_BraveHeart) to work with them
+       Changed side definition macros for both player and ai sides (this also allows to set side colors in scenario to better visible colors in multiplayer chat) and used in (SXC_Advanced, SXC_Adventure, SXC_BraveHeart) to test before marking original macros as deprecated
+
 0.2.26 Changed unit macros and updated affected maps (SXC_Advanced, SXC_Adventure, SXC_BraveHeart) to work with them
 
 0.2.25 Fixed most item macros
