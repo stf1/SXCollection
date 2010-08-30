@@ -1,0 +1,91 @@
+Bats:
+  0: Vampire Bat
+  1: Blood Bat
+  2: Dread Bat
+
+Boats:
+  1: Boat,Galleon,Pirate Galleon,Transport Galleon
+
+Drakes:
+  1: Drake Burner,Drake Clasher,Drake Fighter,Drake Glider
+  2: Drake Arbiter,Drake Flare,Drake Thrasher,Drake Warrior,Fire Drake,Sky Drake
+  3: Drake Blademaster,Drake Enforcer,Drake Flameheart,Drake Warden,Hurricane Drake,Inferno Drake
+  4: Armageddon Drake
+
+Dwarves:
+  1: Dwarvish Fighter,Dwarvish Guardsman,Dwarvish Scout,Dwarvish Thunderer,Dwarvish Ulfserker
+  2: Dwarvish Berserker,Dwarvish Pathfinder,Dwarvish Stalwart,Dwarvish Steelclad,Dwarvish Thunderguard
+  3: Dwarvish Dragonguard,Dwarvish Explorer,Dwarvish Lord,Dwarvish Runemaster,Dwarvish Sentinel
+
+Elves:
+  1: Elvish Archer,Elvish Fighter,Elvish Scout,Elvish Shaman
+  2: Elvish Captain,Elvish Druid,Elvish Hero,Elvish Lord,Elvish Marksman,Elvish Ranger,Elvish Rider,Elvish Sorceress
+  3: Elvish Avenger,Elvish Champion,Elvish Enchantress,Elvish High Lord,Elvish Marshal,Elvish Outrider,Elvish Sharpshooter,Elvish Shyde
+  4: Elvish Sylph
+
+Goblins:
+  0: Goblin Spearman
+  1: Goblin Impaler,Goblin Rouser,Wolf Rider
+  2: Goblin Knight,Goblin Pillager
+  3: Direwolf Rider
+
+Gryphons:
+  1: Gryphon Rider
+  2: Gryphon,Gryphon Master
+
+Humans:
+  0: Ruffian,Peasant,Woodsman
+  1: Horseman,Bowman,Cavalryman,Fencer,Heavy Infantryman,Sergeant,Spearman,Mage,Footpad,Thief,Thug,Poacher
+  2: Knight,Lancer,Dragoon,Duelist,Javelineer,Lieutenant,Longbowman,Pikeman,Shock Trooper,Swordsman,Red Mage,White Mage,Outlaw,Bandit,Rogue,Trapper
+  3: Grand Knight,Paladin,Cavalier,General,Halberdier,Iron Mauler,Master at Arms,Master Bowman,Royal Guard,Arch Mage,Mage of Light,Silver Mage,Assassin,Fugitive,Highwayman,Royal Warrior,Huntsman,Ranger
+  4: Grand Marshal,Great Mage
+  5: Elder Mage
+
+Merfolk:
+  1: Merman Fighter,Merman Hunter,Mermaid Initiate
+  2: Mermaid Enchantress,Merman Netcaster,Mermaid Priestess,Merman Spearman,Merman Warrior
+  3: Mermaid Diviner,Merman Entangler,Merman Hoplite,Merman Javelineer,Mermaid Siren,Merman Triton
+
+Monsters:
+  0: Mudcrawler
+  1: Giant Mudcrawler,Giant Scorpion,Tentacle of the Deep,Wolf
+  2: Cuttle Fish,Water Serpent
+  3: Cave Spider,Sea Serpent
+  4: Skeletal Dragon,Yeti
+  5: Fire Dragon
+
+Nagas:
+  1: Naga Fighter
+  2: Naga Warrior
+  3: Naga Myrmidon
+
+Ogres:
+  1: Young Ogre
+  2: Ogre
+
+Orcs:
+  1: Orcish Archer,Orcish Assassin,Orcish Grunt,Orcish Leader
+  2: Orcish Crossbowman,Orcish Ruler,Orcish Slayer,Orcish Warrior
+  3: Orcish Slurbow,Orcish Sovereign,Orcish Warlord
+
+Saurians:
+  1: Saurian Augur,Saurian Skirmisher
+  2: Saurian Ambusher,Saurian Oracle,Saurian Soothsayer
+  3: Saurian Flanker
+
+Trolls:
+  1: Troll Whelp
+  2: Troll Hero,Troll Rocklobber,Troll,Troll Shaman
+  3: Great Troll,Troll Warrior
+
+Undead:
+  0: Walking Corpse
+  1: Ghoul,Soulless,Dark Adept,Skeleton,Skeleton Archer,Ghost
+  2: Necrophage,Dark Sorcerer,Bone Shooter,Chocobone,Deathblade,Revenant,Shadow,Wraith
+  3: Lich,Necromancer,Banebow,Death Knight,Draug,Nightgaunt,Spectre
+  4: Ancient Lich
+
+Woses:
+  1: Wose
+  2: Elder Wose
+  3: Ancient Wose
