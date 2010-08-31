@@ -1,3 +1,6 @@
+0.2.32 Updated map SpoOky's Forest
+       Removed Level 0 units from era
+
 0.2.31 Updated map SpoOky's Forest
 
 0.2.30 Updated map SpoOky's Forest
