@@ -1,3 +1,6 @@
+0.2.35 Changed sx trait
+       Updated map SpoOky's Forest
+
 0.2.34 Fixed bug in shop macros
        Removed drakes, merfolk and nagas from random selection until all maps will be balanced
 
