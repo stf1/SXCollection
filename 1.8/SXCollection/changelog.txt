@@ -1,3 +1,5 @@
+0.2.37 Updated map SXC_Classic
+
 0.2.36 Updated map SpoOky's Forest
 
 0.2.35 Changed sx trait
