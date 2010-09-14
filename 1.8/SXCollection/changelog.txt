@@ -1,3 +1,6 @@
+0.2.38 Fixed bugs in macros
+       Changes in upgrades for damage and strikes
+
 0.2.37 Updated map SXC_Classic
 
 0.2.36 Updated map SpoOky's Forest
