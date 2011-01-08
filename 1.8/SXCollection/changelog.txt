@@ -1,4 +1,7 @@
-0.2.40 All maps that are not balanced yet are now moved into unbalanced directory to help people who are experiencing problems with loading the addon (in Windows). When you are not experiencing this problem, you can uncomment the marked lines in _main.cfg to load all maps with old macros.
+0.2.41 Fixed description for Leadership
+       Fixed Cloak function
+
+0.2.40 All maps that are not balanced yet are now moved into unbalanced directory to help people who are experiencing problems with loading the addon (in Windows). Maps that are not yet adapted to new macros don't have properly set variables and advance checking events and are moved into the unbalanced directory and are not active for playing.
 
 0.2.39 Updated map SXC_Curve
 
