@@ -1,5 +1,10 @@
+0.2.40 All maps that are not balanced yet are now moved into unbalanced directory to help people who are experiencing problems with loading the addon (in Windows). When you are not experiencing this problem, you can uncomment the marked lines in _main.cfg to load all maps with old macros.
+
+0.2.39 Updated map SXC_Curve
+
 0.2.38 Fixed bugs in macros
        Changes in upgrades for damage and strikes
+       Updated map SXC_Classic
 
 0.2.37 Updated map SXC_Classic
 
