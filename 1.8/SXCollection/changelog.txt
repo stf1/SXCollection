@@ -1,4 +1,8 @@
-0.2.41 Updated map SXC_Maze
+0.2.43 Updated map SXC_Light_Cave
+       Updated all macros checking for enemy leaders to match with role="big_boss" instead with canrecruit="yes" to support fake leaders in future
+       Limited number of recruits for faster calculations on enemy turns later in game - when ai side has more than 30 recruits (guards are not included in this calculation), leader can only recruit 1 more unit in that turn
+
+0.2.42 Updated map SXC_Maze
 
 0.2.41 Fixed description for Leadership
        Fixed Cloak function
