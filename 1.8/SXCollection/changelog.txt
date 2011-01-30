@@ -1,3 +1,5 @@
+0.2.45 Fixed wrong variable name in melee damage upgrades for weapon price calculation
+
 0.2.44 Updated map SXC_Light_Cave
 
 0.2.43 Updated map SXC_Light_Cave
