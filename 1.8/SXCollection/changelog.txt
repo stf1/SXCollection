@@ -1,5 +1,7 @@
 0.2.47 Fixed macro for turn limit
        Updated time limit for some maps
+       Added cashstop variables for sides 6 and 7 in map SXC_Rumble
+       SXC version is now displayed also in map name
 
 0.2.46 Updated map SXC_Rumble
 
