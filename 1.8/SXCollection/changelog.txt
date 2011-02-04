@@ -1,3 +1,6 @@
+0.2.47 Fixed macro for turn limit
+       Updated time limit for some maps
+
 0.2.46 Updated map SXC_Rumble
 
 0.2.45 Fixed wrong variable name in melee damage upgrades for weapon price calculation
