@@ -1,3 +1,12 @@
+0.2.50 Updated map SXC Rumble
+
+0.2.49 Updated map SXC_Rumble (this one was very hard to balance and required lot of testing after every change)
+       Fixed some minor bugs
+
+0.2.48 Added macros for ghostlike units
+       Updated map SXC_Rumble
+       Updated map SXC_SpoOky's Forest
+
 0.2.47 Fixed macro for turn limit
        Updated time limit for some maps
        Added cashstop variables for sides 6 and 7 in map SXC_Rumble
