@@ -1,4 +1,6 @@
-0.2.50 Updated map SXC Rumble
+0.2.51 Updated map SXC_Stronghold
+
+0.2.50 Updated map SXC_Rumble
 
 0.2.49 Updated map SXC_Rumble (this one was very hard to balance and required lot of testing after every change)
        Fixed some minor bugs
