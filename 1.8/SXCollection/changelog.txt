@@ -1,3 +1,6 @@
+0.2.52 Updated map SXC_Isar's_Crossfire
+       Updated map SXC_Stronghold
+
 0.2.51 Updated map SXC_Stronghold
 
 0.2.50 Updated map SXC_Rumble
