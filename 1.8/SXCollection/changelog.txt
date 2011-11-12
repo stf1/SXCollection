@@ -1,3 +1,7 @@
+0.2.53 Updated map SXC_System
+       Added macros for ability removal
+       Added ability Hide
+
 0.2.52 Updated map SXC_Isar's_Crossfire
        Updated map SXC_Stronghold
 
