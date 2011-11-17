@@ -1,3 +1,11 @@
+0.2.56 Fixed RingOfDarkness event
+       Updated map SXC_Ramblin
+       Updated map SXC_System
+
+0.2.55 Updated map SXC_System
+
+0.2.54 Updated map SXC_System
+
 0.2.53 Updated map SXC_System
        Added macros for ability removal
        Added ability Hide
