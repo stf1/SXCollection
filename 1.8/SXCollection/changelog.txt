@@ -1,4 +1,7 @@
-0.2.57 Updated some maps
+0.2.58 Updated map SXC_Simple
+
+0.2.57 Updated map SXC_Ramblin
+       Some other small fixes
 
 0.2.56 Fixed RingOfDarkness event
        Updated map SXC_Ramblin
