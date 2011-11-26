@@ -1,3 +1,11 @@
+0.2.64 Updated map SXC_CursedLand
+
+0.2.63 Updated map SXC_CursedLand
+       Updated map SXC_Wizard_of_War
+
+0.2.62 Updated map SXC_CursedLand
+       Updated map SXC_Wizard_of_War
+
 0.2.61 Updated map SXC_Wizard_of_War
        Updated map SXC_Trapped
        Map names are now displayed in lobby without underscores in the name for all people who have installed the same addon version
