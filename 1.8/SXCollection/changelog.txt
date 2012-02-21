@@ -1,3 +1,66 @@
+0.2.88 Fixed macro for disabling recruting for players
+
+0.2.87 Updated map SXC_Attack
+       Updated map SXC_Extend
+
+0.2.86 Updated map SXC_Figure
+       Updated map SXC_Extend
+
+0.2.85 Updated map SXC_Figure
+
+0.2.84 Updated map SXC_Figure
+       Updated map SXC_WizardOfWar
+
+0.2.83 Updated map SXC_Figure
+       Fixed DWARFPLATE event
+
+0.2.82 Updated map SXC_Spiral
+       Updated map SXC_Figure
+
+0.2.81 Updated map SXC_Spiral
+
+0.2.80 Updated map SXC_Rush
+       Updated map SXC_Spiral
+
+0.2.79 Changed difficuty settings to more correspond with actual macros and map settings
+
+0.2.78 Updated maps affected by incorrect leader respawns when they are still alive
+       Updated map SXC_Rush
+
+0.2.77 Updated map SXC_Channels
+       Updated map SXC_Rush
+       Added fake side macros, include leader, gold, income, recruit list from AI side leader or own, recruiting at start of turn
+
+0.2.76 Updated map SXC_Channels
+
+0.2.75 Updated map SXC_Channels
+
+0.2.74 Updated map SXC_Channels
+
+0.2.73 Updated map SXC_MountainsOfDoom
+
+0.2.72 Updated map SXC_MountainsOfDoom
+
+0.2.71 Updated map SXC_MountainsOfDoom
+
+0.2.70 Updated map SXC_IsleOfTheDead
+       Updated map SXC_WizardOfWar
+       Updated map SXC_MountainsOfDoom
+       Level 0 units added back to SXC Default Low Level Era and all selectable units are also possible to get in random selection
+
+0.2.69 Updated map SXC_IsleOfTheDead
+
+0.2.68 Updated map SXC_IsleOfTheDead
+
+0.2.67 Added special SXC Default Random Low Level Era with antiduplicates macro (all randomly selected units, that match the same unit type with lower side number, are at start automatically replaced with different unit, not matching any other unit controled by any other player and result is logged)
+       Updated map SXC_IsleOfTheDead
+       Updated map SXC_CursedLand
+
+0.2.66 Updated map SXC_CursedLand
+       Updated map SXC_Adventure
+
+0.2.65 Updated map SXC_CursedLand
+
 0.2.64 Updated map SXC_CursedLand
 
 0.2.63 Updated map SXC_CursedLand
