@@ -1,3 +1,24 @@
+0.2.97 Updated map SXC_Chambers
+       Added map SXC_SpoOky_Spiral
+
+0.2.96 Fixed fake leaders sometimes recognized as real leaders and using normal side gold for recruiting
+
+0.2.95 Fixed Giant Spider in recruit lists
+
+0.2.94 Updated map SXC_Chambers
+
+0.2.93 Fixed fake leaders moving from keep and never returning back
+       Updated map SXC_Chambers
+
+0.2.92 Updated map SXC_Chambers
+
+0.2.91 Updated map SXC_Mythos
+
+0.2.90 Fixed bug in ability Megaregenerates causing extra hitpoints from yellow/blue potions was lost when poisoned
+       Updated map SXC_Mythos
+
+0.2.89 Updated map SXC_Mythos
+
 0.2.88 Fixed macro for disabling recruting for players
 
 0.2.87 Updated map SXC_Attack
