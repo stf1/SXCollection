@@ -1,3 +1,40 @@
+0.2.112 Fixed small typo in macros
+
+0.2.111 Updated map SXC_Wizard_of_War
+        Changed price of some abilities
+
+0.2.110 Updated map SXC_Ramblin
+
+0.2.109 Updated map SXC_Attack
+        Changed behavior of enemy leaders (they can attack again)
+
+0.2.108 Updated map SXC_Attack
+        Updated map SXC_Wizard_of_War
+
+0.2.107 Updated map SXC_Simple
+        Updated map SXC_Attack
+
+0.2.106 Updated map SXC_Rumble
+        Updated map SXC_Isars_Crossfire
+
+0.2.105 Updated map SXC_Classic
+        Added Ghast to recruit lists for undead AI sides
+
+0.2.104 Fixed lua error in maps containing Drake Gladiator and Drake Slasher
+
+0.2.103 Level 0 units disabled in low level era because they are choosed too often by random
+
+0.2.102 Fixed 80% terrain defense for mounted units
+
+0.2.101 Updated map SXC_Curve
+        Added temporary fix for mounted units getting 80% defense in forest
+
+0.2.100 Fixed Lieutenant and Halberdier in recruit lists
+
+0.2.99 Updated map SXC_Figure
+
+0.2.98 Fixed Deathblade in recruit lists
+
 0.2.97 Updated map SXC_Chambers
        Added map SXC_SpoOky_Spiral
 

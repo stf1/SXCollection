@@ -82,7 +82,7 @@ Undead:
   0: Walking Corpse
   1: Ghoul,Soulless,Dark Adept,Skeleton,Skeleton Archer,Ghost
   2: Necrophage,Dark Sorcerer,Bone Shooter,Chocobone,Deathblade,Revenant,Shadow,Wraith
-  3: Lich,Necromancer,Banebow,Death Knight,Draug,Nightgaunt,Spectre
+  3: Ghast,Lich,Necromancer,Banebow,Death Knight,Draug,Nightgaunt,Spectre
   4: Ancient Lich
 
 Woses:
