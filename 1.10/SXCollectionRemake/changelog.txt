@@ -1,3 +1,5 @@
+0.2.112 Fixed bug in terrain training causing wrong number of upgrades
+
 0.2.111 Updated map SXC_Wizard_of_War
         Changed price of some abilities
 
