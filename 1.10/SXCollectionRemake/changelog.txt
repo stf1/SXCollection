@@ -1,3 +1,25 @@
+0.3.4 Adapted map: Chambers
+
+0.3.3 Adapted map: Classic
+
+0.3.2 Adjusted gold in chests in Adventure
+      Adjusted income from dead enemy leaders in Adventure
+      Adapted map: BraveHeart
+
+0.3.1 Shortened visible names for abilities to make them fit in the unit description frame
+      Decreased brutal factor for MAD MODE from +10 to +9
+      Lowered brutal variable in Adventure from 5 to 4
+
+0.3.0 Stats of enemy units (HP, damage, strikes) are lowered to minimize the precalculation lag
+      Shop prices for HP, damage and strikes are changed to correspond with the enemy stats changes
+      ENEMY_UPDATE macro is now calculated from brutal variable instead of changed every 10 turns according to brutal variable - it allows shorter code and more precise difficulty settings
+      Changed colors and added description for difficulty modes and added ressurection and hints at Rookie mode
+      Added halos for dark aura and death aura
+      Range specialization is now selected before player enters shop for the first time and the range that is not selected at start has choice of the  weapons specials limited to defensive specials (backstab, evade, poison, slow)
+      Added image for poison special in weapon specials shop
+      Terrain training prices are doubled against previous version
+      Adapted maps (98% balanced): Advanced, Adventure
+
 0.2.112 Fixed bug in terrain training causing wrong number of upgrades
 
 0.2.111 Updated map SXC_Wizard_of_War
@@ -110,9 +132,9 @@
 
 0.2.68 Updated map SXC_IsleOfTheDead
 
-0.2.67 Added special SXC Default Random Low Level Era with antiduplicates macro (all randomly selected units, that match the same unit type with lower side number, are at start automatically replaced with different unit, not matching any other unit controled by any other player and result is logged)
-       Updated map SXC_IsleOfTheDead
+0.2.67 Updated map SXC_IsleOfTheDead
        Updated map SXC_CursedLand
+       Added special SXC Default Random Low Level Era with antiduplicates macro (all randomly selected units, that match the same unit type with lower side number, are at start automatically replaced with different unit, not matching any other unit controled by any other player and result is logged)
 
 0.2.66 Updated map SXC_CursedLand
        Updated map SXC_Adventure
