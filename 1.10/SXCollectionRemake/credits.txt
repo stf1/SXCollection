@@ -17,3 +17,11 @@ These people helped with improving this pack:
   vultraz
 
 If I forgot someone, please send me personal message
+
+  Also I must thank to many many people, who are playing
+the maps with me while I am testing them. Without those
+people it would be much harder to determine the proper
+settings in the maps, because everyone is playing in
+different style and buys different upgrades and it helps
+to find most problems that I couldn't find out playing
+them myself.
