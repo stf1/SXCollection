@@ -1,3 +1,6 @@
+0.3.8 Adapted map: Rumble
+      Added petrifies into removed specials
+
 0.3.7 Adapted map: Maze
 
 0.3.6 Adapted map: IsarsCrossfire
